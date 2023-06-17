@@ -24,6 +24,12 @@ Inicio do projeto primeiramente criando a estrutura da página em HTML5 e depois
 
 #
 
+# Deploy Feito no site VERCEL
+
+Utilizei o Vercel para subir meu portfolio por se tratar de uma ferramenta boa e de graça.
+
+![image](https://github.com/Franco-Pigozzo/Meu-Portfolio/assets/54686821/db42f9fa-542b-49c3-8d5a-9750527b786c)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML5``
