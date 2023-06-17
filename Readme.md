@@ -24,7 +24,7 @@ Inicio do projeto primeiramente criando a estrutura da página em HTML5 e depois
 
 #
 
-# Deploy Feito no site VERCEL
+# Deploy feito no site VERCEL
 
 Utilizei o Vercel para subir meu portfolio por se tratar de uma ferramenta boa e de graça.
 
