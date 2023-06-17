@@ -24,3 +24,9 @@ Inicio do projeto primeiramente criando a estrutura da página em HTML5 e depois
 
 #
 
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``HTML5``
+- ``CSS``
+- ``JavaScript``
+
